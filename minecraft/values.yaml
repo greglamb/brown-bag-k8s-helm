@@ -136,9 +136,9 @@ minecraftServer:
 
   rcon:
     # If you enable this, make SURE to change your password below.
-    enabled: false
+    enabled: true
     port: 25575
-    password: "CHANGEME!"
+    password: "brownbag"
     serviceType: LoadBalancer
     loadBalancerIP:
     # loadBalancerSourceRanges: []
