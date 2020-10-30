@@ -15,7 +15,7 @@ cd gke-brownbag
 
 helm install minecraft minecraft --debug
 
-kubectrl get svc
+kubectl get svc
 
 helm delete minecraft
 ```
