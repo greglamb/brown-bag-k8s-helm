@@ -1,4 +1,4 @@
-# Minecraft in GKE
+# Minecraft in GKE with Helm
 
 ```
 gcloud config set project brownbag-294119
@@ -19,4 +19,3 @@ kubectl get svc
 
 helm delete minecraft
 ```
-
