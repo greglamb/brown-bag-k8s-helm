@@ -101,7 +101,7 @@ minecraftServer:
   # One of: creative, survival, adventure, spectator
   gameMode: survival
   # Message of the Day
-  motd: "Launch Kubernetes Brownbag"
+  motd: "Launch Kubernetes Brown Bag"
   # If true, enable player-vs-player damage.
   pvp: true
   # One of: DEFAULT, FLAT, LARGEBIOMES, AMPLIFIED, CUSTOMIZED
