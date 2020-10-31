@@ -1,4 +1,4 @@
-# Minecraft in GKE with Helm
+# Minecraft in Kubernetes (GKE) with Helm
 
 ```
 gcloud config set project brownbag-294119
